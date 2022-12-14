@@ -1,0 +1,511 @@
+[Closed Files]
+File_0=SourceModule,'C:\Dados\Andre\Eletrica\Projeto final\pj\Defines.h',0,1,16,9,32,0,0
+File_1=SourceModule,'c:\program files\borland\cbuilder5\source\vcl\Classes.pas',0,1,1835,1,1850,0,0
+File_2=SourceModule,'c:\program files\borland\cbuilder5\source\vcl\sysutils.pas',0,1,2193,1,2208,0,0
+File_3=SourceModule,'C:\Dados\Andre\Eletrica\Projeto final\pj\TEquacao.cpp',0,1,970,4,970,0,0
+File_4=SourceModule,'C:\Dados\Andre\Eletrica\Projeto final\pj\TEdEquacao.cpp',0,1,1,1,1,0,0
+File_5=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\NeoSoee\TListaStrings.cpp',0,1,1,1,1,0,0
+File_6=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\NeoSoee\TListaVars.cpp',0,1,1,1,1,0,0
+File_7=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\NeoSoee\ListaVars.cpp',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\NeoSoee\Equacao.cpp',0,1,1,1,1,0,0
+
+[Modules]
+Module0=C:\Dados\Andre\Eletrica\Projeto final\pj\TMain.cpp
+Module1=C:\Dados\Andre\Eletrica\Projeto final\pj\TEquipamento.cpp
+Module2=C:\Dados\Andre\Eletrica\Projeto final\pj\TObjeto.cpp
+Module3=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdEquipamento.cpp
+Module4=C:\Dados\Andre\Eletrica\Projeto final\pj\TFuncao.cpp
+Module5=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdFuncao.cpp
+Module6=C:\Dados\Andre\Eletrica\Projeto final\pj\TLista.cpp
+Module7=C:\Dados\Andre\Eletrica\Projeto final\pj\TListaDeVariaveis.cpp
+Module8=C:\Dados\Andre\Eletrica\Projeto final\pj\TEscolhaParametro.cpp
+Module9=C:\Dados\Andre\Eletrica\Projeto final\pj\TSolucao.cpp
+Module10=C:\Dados\Andre\Eletrica\Projeto final\pj\TAviso.cpp
+Module11=C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDePonto.cpp
+Module12=C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDeDados.cpp
+Module13=C:\Dados\Andre\Eletrica\Projeto final\pj\TSobre.cpp
+Count=14
+EditWindowCount=1
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TMain.cpp]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEquipamento.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TObjeto.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEdEquipamento.cpp]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TFuncao.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEdFuncao.cpp]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TLista.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TListaDeVariaveis.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEscolhaParametro.cpp]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TSolucao.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TAviso.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDePonto.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDeDados.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\TSobre.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Dados\Andre\Eletrica\Projeto final\pj\NeoSoee.bpr]
+FormState=0
+FormOnTop=0
+
+[C:\Dev\CBuilder5\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=23
+CurrentView=9
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+View8=8
+View9=9
+View10=10
+View11=11
+View12=12
+View13=13
+View14=14
+View15=15
+View16=16
+View17=17
+View18=18
+View19=19
+View20=20
+View21=21
+View22=22
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+ClassHierarchy=ClassHierarchy@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=182
+Top=132
+Width=838
+Height=651
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=830
+ClientHeight=619
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F7265720000000000000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=00000400010000000B0000004D657373616765566965770000000000000000000000000000000000FFFFFFFF
+
+[View0]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDePonto.cpp
+CursorX=18
+CursorY=14
+TopLine=3
+LeftCol=1
+
+[View1]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEquipamento.cpp
+CursorX=1
+CursorY=412
+TopLine=399
+LeftCol=1
+
+[View2]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TObjeto.cpp
+CursorX=1
+CursorY=49
+TopLine=24
+LeftCol=1
+
+[View3]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEquipamento.h
+CursorX=42
+CursorY=105
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdEquipamento.cpp
+CursorX=1
+CursorY=556
+TopLine=543
+LeftCol=1
+
+[View5]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEscolhaParametro.h
+CursorX=3
+CursorY=21
+TopLine=1
+LeftCol=1
+
+[View6]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEscolhaParametro.cpp
+CursorX=24
+CursorY=20
+TopLine=1
+LeftCol=1
+
+[View7]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TAviso.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View8]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdEquipamento.h
+CursorX=13
+CursorY=137
+TopLine=117
+LeftCol=1
+
+[View9]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TMain.cpp
+CursorX=75
+CursorY=82
+TopLine=76
+LeftCol=1
+
+[View10]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TMain.h
+CursorX=1
+CursorY=54
+TopLine=37
+LeftCol=1
+
+[View11]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TSobre.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View12]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TSolucao.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View13]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TFuncao.cpp
+CursorX=4
+CursorY=209
+TopLine=197
+LeftCol=1
+
+[View14]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TListaDeVariaveis.cpp
+CursorX=1
+CursorY=202
+TopLine=1
+LeftCol=1
+
+[View15]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TListaDeVariaveis.h
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View16]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdFuncao.cpp
+CursorX=38
+CursorY=424
+TopLine=412
+LeftCol=1
+
+[View17]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDeDados.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View18]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TLista.cpp
+CursorX=1
+CursorY=169
+TopLine=156
+LeftCol=1
+
+[View19]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TLista.h
+CursorX=1
+CursorY=1
+TopLine=22
+LeftCol=1
+
+[View20]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEdFuncao.h
+CursorX=41
+CursorY=109
+TopLine=98
+LeftCol=1
+
+[View21]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TFuncao.h
+CursorX=1
+CursorY=110
+TopLine=94
+LeftCol=1
+
+[View22]
+Module=C:\Dados\Andre\Eletrica\Projeto final\pj\TEntradaDePonto.h
+CursorX=18
+CursorY=40
+TopLine=19
+LeftCol=1
+
+[Watches]
+Count=1
+Watch0='FVars',256,0,18,1,0
+
+[Breakpoints]
+Count=1
+Breakpoint0='C:\Dados\Andre\Eletrica\Projeto final\pj\TEquipamento.cpp',317,'',0,1,'',1,0,0,'',1,'','',''
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1024
+Height=119
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1016
+ClientHeight=87
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=275
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=245
+Top=207
+Width=680
+Height=515
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=672
+ClientHeight=483
+DumpPane=101
+DisassemblyPane=164
+RegisterPane=297
+FlagPane=82
+
+[WatchWindow]
+Create=1
+Visible=0
+State=0
+Left=2
+Top=486
+Width=130
+Height=149
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=122
+ClientHeight=121
+TBDockHeight=149
+LRDockWidth=421
+Dockable=1
+
+[CallStackWindow]
+Create=1
+Visible=0
+State=0
+Left=365
+Top=303
+Width=496
+Height=210
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=488
+ClientHeight=182
+TBDockHeight=161
+LRDockWidth=294
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=116
+Width=156
+Height=86
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=3
+Top=135
+Width=190
+Height=545
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=180
+ClientHeight=515
+TBDockHeight=494
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=OnKeyPress
+ExpandedItems=BorderIcons
+HiddenCategories=
+ShowStatusBar=1
+
+[CodeguardLog]
+Create=1
+Visible=0
+State=0
+Left=19
+Top=221
+Width=553
+Height=362
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=545
+ClientHeight=334
+TBDockHeight=190
+LRDockWidth=448
+Dockable=1
+
+[ClassHierarchy@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=218
+Top=113
+Width=403
+Height=284
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=395
+ClientHeight=256
+TBDockHeight=284
+LRDockWidth=403
+Dockable=1
+TreeWidth=149
+Col1Width=148
+Col2Width=148
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=12
+Width=170
+Height=586
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=170
+ClientHeight=586
+TBDockHeight=388
+LRDockWidth=170
+Dockable=1
+ClassViewDisplayMode=0
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=12
+Top=0
+Width=818
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=818
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
